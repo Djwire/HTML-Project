@@ -1,0 +1,13 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: "Dancing Script", cursive;
+    background-image: url(img/backfood\ pic.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: center;
+    background-size: fixed;
+    font-size: 23px;
+    margin-top: 40px;
+    margin-left: 60px;
+}
